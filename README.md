@@ -61,7 +61,7 @@ Runs are stored in a local SQLite database at `GEO_WATCH_DB` (default: `data/wat
 ## Related
 
 - [geo-prompts](https://github.com/josezuma/geo-prompts) — Benchmark prompt sets (this tool's data source)
-- [BrandVirality](https://brandvirality.com) — AI Visibility Agency
+- [BrandVirality](https://brandvirality.com) — SaaS for AI visibility
 
 ## License
 
