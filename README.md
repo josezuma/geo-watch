@@ -5,6 +5,8 @@
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a>
   </p>
   <p>by <a href="https://brandvirality.com">BrandVirality</a></p>
+
+  <p><strong>Author:</strong> <a href="https://github.com/josezuma">Jose Zuma — Expert in AI Visibility</a></p>
 </div>
 
 ---
